@@ -29,13 +29,9 @@
 
 9. **Monitor:** Muestra la salida visual de la computadora.![Texto alternativo](https://www.lg.com/content/dam/channel/wcms/co/images/monitores/24mp400-b_awp_escb_co_c/Basic-450.jpg)
 
+10. **Teclado:** Permite ingresar texto y comandos.![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBV9gX7xntOoEX-Y1mxoPrQpaLoYBSNWzy1Q&s)
 
-10. **Teclado:** Permite ingresar texto y comandos.
-![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBV9gX7xntOoEX-Y1mxoPrQpaLoYBSNWzy1Q&s)
-
-
-11. **Mouse:** Se utiliza para controlar el cursor en la pantalla.
-![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CaLZZcyVBLA4KquPKE96fauRoV01p5zw0A&s)
+11. **Mouse:** Se utiliza para controlar el cursor en la pantalla.![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CaLZZcyVBLA4KquPKE96fauRoV01p5zw0A&s)
 
 ## Interacción del hardware con el software 
 La manera en que interactúan el hardware y el software es que el hardware le da indicaciones al software para que realice las tareas requeridas por el usuario.
