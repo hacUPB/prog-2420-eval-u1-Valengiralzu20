@@ -4,7 +4,7 @@
 # Discusión
 
 ## Funciones principales de cada componente consultado
-1. **CPU:** Ejecuta las instrucciones de los programas.
+1. **CPU:** Ejecuta las instrucciones de los programas. ![CPU](https://hardzone.es/app/uploads-hardzone.es/2019/11/CPU.jpg)
 
 2. **Placa base:** La placa principal que conecta todos los componentes y sirve como base para la computadora.
 
