@@ -60,17 +60,30 @@ Se refiere a la rapidez con la que el procesador puede ejecutar instrucciones.
 Algo que no sabía y descubrí en esta actividad fue el paso a paso desde que se encendía la computadora hasta que estaba el sistema listo para que el usuario lo usara, nunca me había causado curiosidad esto, y ver como pasa es fenomenal.
 
 ## Referencias bibliográficas
->https://aws.amazon.com/es/what-is/cpu/#:~:text=Una%20CPU%2C%20o%20unidad%20central,realizan%20operaciones%20matem%C3%A1ticas%20en%20ellos.
->https://www.pccomponentes.com/que-es-una-placa-base-tipos-instalar
->https://www.xataka.com/basics/memoria-ram-que-sirve-como-mirar-cuanta-tiene-tu-ordenador-movil
->https://www.pccomponentes.com/como-elegir-tarjeta-grafica
->https://aws.amazon.com/es/compare/the-difference-between-ssd-hard-drive/#:~:text=Las%20unidades%20de%20estado%20s%C3%B3lido,almacenan%20datos%20en%20discos%20magn%C3%A9ticos.
->https://www.ferrovial.com/es/stem/fuente-de-alimentacion/#:~:text=Se%20conoce%20como%20fuente%20de,un%20dispositivo%20o%20sistema%20electr%C3%B3nico.
->https://sdindustrial.com.mx/blog/gabinete-de-computacion/#:~:text=%C2%BFQu%C3%A9%20es%20un%20gabinete%20de%20computaci%C3%B3n%3F,chasis%20o%20torre%20de%20computadoras.
->https://desarrollarinclusion.cilsa.org/tecnologia-inclusiva/que-es-un-sistema-operativo/#:~:text=Un%20sistema%20operativo%20es%20un,placa%20de%20red%2C%20entre%20otros.
->https://edu.gcfglobal.org/es/cultura-tecnologica/que-son-las-aplicaciones-o-programas/1/#:~:text=Una%20aplicaci%C3%B3n%20es%20un%20programa,experiencia%20inform%C3%A1tica%20de%20las%20personas.
->https://learn.microsoft.com/es-es/windows-hardware/drivers/gettingstarted/what-is-a-driver- 
->https://www.ibm.com/es-es/topics/software-development
->https://edu.gcfglobal.org/es/informatica-basica/el-monitor-o-pantalla/1/
->https://es.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)
->https://www.tsl.texas.gov/sites/default/files/public/tslac/ld/ld/LibrariesLiteracy/span/ES_1-3%20Mouse%20Training%20Presentation.pdf
+>-https://aws.amazon.com/es/what-is/cpu/#:~:text=Una%20CPU%2C%20o%20unidad%20central,realizan%20operaciones%20matem%C3%A1ticas%20en%20ellos.
+
+>-https://www.pccomponentes.com/que-es-una-placa-base-tipos-instalar
+
+>-https://www.xataka.com/basics/memoria-ram-que-sirve-como-mirar-cuanta-tiene-tu-ordenador-movil
+
+>-https://www.pccomponentes.com/como-elegir-tarjeta-grafica
+
+>-https://aws.amazon.com/es/compare/the-difference-between-ssd-hard-drive/#:~:text=Las%20unidades%20de%20estado%20s%C3%B3lido,almacenan%20datos%20en%20discos%20magn%C3%A9ticos.
+
+>-https://www.ferrovial.com/es/stem/fuente-de-alimentacion/#:~:text=Se%20conoce%20como%20fuente%20de,un%20dispositivo%20o%20sistema%20electr%C3%B3nico.
+
+>-https://sdindustrial.com.mx/blog/gabinete-de-computacion/#:~:text=%C2%BFQu%C3%A9%20es%20un%20gabinete%20de%20computaci%C3%B3n%3F,chasis%20o%20torre%20de%20computadoras.
+
+>-https://desarrollarinclusion.cilsa.org/tecnologia-inclusiva/que-es-un-sistema-operativo/#:~:text=Un%20sistema%20operativo%20es%20un,placa%20de%20red%2C%20entre%20otros.
+
+>-https://edu.gcfglobal.org/es/cultura-tecnologica/que-son-las-aplicaciones-o-programas/1/#:~:text=Una%20aplicaci%C3%B3n%20es%20un%20programa,experiencia%20inform%C3%A1tica%20de%20las%20personas.
+
+>-https://learn.microsoft.com/es-es/windows-hardware/drivers/gettingstarted/what-is-a-driver- 
+
+>-https://www.ibm.com/es-es/topics/software-development
+
+>-https://edu.gcfglobal.org/es/informatica-basica/el-monitor-o-pantalla/1/
+
+>-https://es.wikipedia.org/wiki/Teclado_(inform%C3%A1tica)
+
+>-https://www.tsl.texas.gov/sites/default/files/public/tslac/ld/ld/LibrariesLiteracy/span/ES_1-3%20Mouse%20Training%20Presentation.pdf
