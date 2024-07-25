@@ -1,4 +1,6 @@
-# Hardware 
+# Partes de la computadora moderna 
+![Texto alternativo](https://www.canva.com/design/DAGL6vyzq4M/cO40Zn-snjw04hgy053-7A/view?utm_content=DAGL6vyzq4M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 - ## CPU (Unidad Central de Procesamiento):  ejecuta una secuencia de instrucciones y procesa los datos de las mismas.
 - ## RAM (Memoria de Acceso Aleatorio): se utiliza para almacenar información que debe usarse rápidamente.
 - ## Almacenamiento (HDD, SSD):  
