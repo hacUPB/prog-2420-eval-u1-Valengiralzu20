@@ -56,7 +56,7 @@ Se refiere a la rapidez con la que el procesador puede ejecutar instrucciones.
 4. Inicio de sesión y escritorio: Aparece la pantalla de inicio de sesión, donde introduces tus credenciales, se carga el perfil de usuario y se muestra la interfaz gráfica.
 5. Sistema operativo listo: Todos los servicios y procesos necesarios se inician y la computadora está lista para ser utilizada.
 
-## Curiosidad markdownCopiar código :smile: 
+## Curiosidad :smile: 
 Algo que no sabía y descubrí en esta actividad fue el paso a paso desde que se encendía la computadora hasta que estaba el sistema listo para que el usuario lo usara, nunca me había causado curiosidad esto, y ver como pasa es fenomenal.
 
 ## Referencias bibliográficas
