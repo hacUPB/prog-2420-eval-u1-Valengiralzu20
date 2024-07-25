@@ -38,3 +38,10 @@ La manera en que interactúan el hardware y el software es que el hardware le da
 
 La función del hardware es proporcionar la estructura física y los componentes necesarios para que la computadora funcione y la función del software es darle instrucciones y herramientas para realizar las tareas.
 
+## Función de la CPU y sus partes más importantes 
+La CPU se encarga de ejecutar las instrucciones de los programas, realizar cálculos y coordinar el funcionamiento de todos los demás componentes.
+**Sus partes más importantes son:**
+-**Unidad aritmética lógica (ALU):** Realiza operaciones matemáticas y lógicas.
+-**Unidad de control (UC):** Coordina el funcionamiento de la CPU.
+-**Registros:** Almacenan temporalmente los datos que se están procesando.
+-**Caché:** Memoria rápida que almacena datos de uso frecuente.
