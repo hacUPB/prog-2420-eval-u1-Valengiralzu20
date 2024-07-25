@@ -4,7 +4,7 @@
 # Discusión
 
 ## Funciones principales de cada componente consultado
-_CPU:_ Ejecuta las instrucciones de los programas.
+*CPU:** Ejecuta las instrucciones de los programas.
 _Placa base:_ La placa principal que conecta todos los componentes y sirve como base para la computadora.
 Memoria RAM: Almacena temporalmente los datos que está usando la computadora actualmente.
 Tarjeta gráfica: Procesa los datos gráficos y los muestra en la pantalla.
