@@ -45,3 +45,16 @@ La CPU se encarga de ejecutar las instrucciones de los programas, realizar cálc
 -**Unidad de control (UC):** Coordina el funcionamiento de la CPU.
 -**Registros:** Almacenan temporalmente los datos que se están procesando.
 -**Caché:** Memoria rápida que almacena datos de uso frecuente.
+
+## Velocidad de la CPU (velocidad de reloj)
+Se refiere a la rapidez con la que el procesador puede ejecutar instrucciones.
+
+## Secuencia de pasos que ocurre desde que presionas botón de encendido de la computadora hasta que se muestra el sistema operativo listo para funcionar 
+1. Encendido y POST: Al presionar el botón de encendido, la fuente de alimentación se activa y el BIOS inicia una autocomprobación de los componentes hardware.
+2. Carga del sistema operativo: El BIOS/UEFI busca el dispositivo de arranque (generalmente el disco duro) y carga el gestor de arranque. El gestor de arranque carga el kernel del sistema operativo en la memoria RAM.
+3. Inicialización y carga: El kernel inicializa los controladores de dispositivos y carga los procesos necesarios para iniciar la interfaz gráfica.
+4. Inicio de sesión y escritorio: Aparece la pantalla de inicio de sesión, donde introduces tus credenciales, se carga el perfil de usuario y se muestra la interfaz gráfica.
+5. Sistema operativo listo: Todos los servicios y procesos necesarios se inician y la computadora está lista para ser utilizada.
+
+## Curiosidad markdownCopiar código :smile: 
+Algo que no sabía y descubrí en esta actividad fue el paso a paso desde que se encendía la computadora hasta que estaba el sistema listo para que el usuario lo usara, nunca me había causado curiosidad esto, y ver como pasa es fenomenal.
