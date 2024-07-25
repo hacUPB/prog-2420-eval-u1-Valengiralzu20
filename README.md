@@ -35,3 +35,8 @@
 
 11. **Mouse:** Se utiliza para controlar el cursor en la pantalla.![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CaLZZcyVBLA4KquPKE96fauRoV01p5zw0A&s)
 
+## Interacción del hardware con el software 
+La manera en que interactúan el hardware y el software es que el hardware le da indicaciones al software para que realice las tareas requeridas por el usuario.
+
+La función del hardware es proporcionar la estructura física y los componentes necesarios para que la computadora funcione y la función del software es darle instrucciones y herramientas para realizar las tareas.
+
