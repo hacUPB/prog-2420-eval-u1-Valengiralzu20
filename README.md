@@ -1,21 +1,17 @@
 # Partes de la computadora moderna 
 [Mapa conceptual](https://www.canva.com/design/DAGL6vyzq4M/cO40Zn-snjw04hgy053-7A/view?utm_content=DAGL6vyzq4M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+# Discusión
 
-
-- ## CPU (Unidad Central de Procesamiento):  ejecuta una secuencia de instrucciones y procesa los datos de las mismas.
-- ## RAM (Memoria de Acceso Aleatorio): se utiliza para almacenar información que debe usarse rápidamente.
-- ## Almacenamiento (HDD, SSD):  
-    HDD (Hard Disk Drive): sirve para almacenar datos digitales de forma rápida y segura. 
-    SSD (Solid State Drive): es un medio de almacenamiento que, a diferencia de un HDD, utiliza una memoria no volátil (flash) para almacenar y acceder a los datos.
-- ## Placa base (*Motherboard*): es la pieza principal de los circuitos a la que se conectan las demás piezas que crean el conjunto.
-- ## Dispositivos de entrada y salida: permiten tanto introducir como extraer información de un sistema. 
-- ## Buses (de datos y dirección)
-     BUS de DATOS: lleva información (Bytes) desde y hacia el micro, por eso es "BIDIRECCIONAL".
-     BUS de DIRECCIONES: permite al micro seleccionar posiciones de memoria para lectura o escritura.
-
-# Software
-- ## Sistema operativo: programas encargados de administrar y gestionar de manera eficiente todos los recursos de un ordenador y otros dispositivos.
-- ## Aplicaciones de usuario: es donde crea y gestiona los registros de usuarios. 
-- ## Drivers:es un programa de software que indica al sistema operativo de su computadora cómo comunicarse con una determinada pieza de hardware.
-- ## Software de desarrollo: depurar, probar, escribir y desarrollar otros programas.
+## Funciones principales de cada componente consultado
+_CPU:_ Ejecuta las instrucciones de los programas.
+_Placa base:_ La placa principal que conecta todos los componentes y sirve como base para la computadora.
+Memoria RAM: Almacena temporalmente los datos que está usando la computadora actualmente.
+Tarjeta gráfica: Procesa los datos gráficos y los muestra en la pantalla.
+Disco duro (HDD) o Unidad de estado sólido (SSD): Almacena permanentemente los datos (programas, archivos, etc.).
+Sistema operativo: Gestiona el hardware y proporciona una interfaz para el usuario.
+Aplicaciones: Realizan tareas específicas, como procesar texto, navegar por internet o jugar videojuegos.
+Drivers: Permiten que el sistema operativo se comunique con el hardware.
+Monitor: Muestra la salida visual de la computadora.
+Teclado: Permite ingresar texto y comandos.
+Mouse: Se utiliza para controlar el cursor en la pantalla.
