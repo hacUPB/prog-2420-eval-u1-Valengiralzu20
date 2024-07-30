@@ -1,2 +1,2 @@
-#Sistemas númericos 
-holaaaa
+## Sistemas númericos 
+[Diagrama de bloques](https://miro.com/welcomeonboard/bGhPSnlGVEFmV2VSMFFSS2lINWZRdHpTbHJ2aUNCZmFDTDZJTVhTYm94NkdUdUNxTlRodFhySmhJRWtyTnJCenwzMDc0NDU3MzYyMjYzMDQ3NTUyfDI=?share_link_id=369874603517URL)
