@@ -22,11 +22,9 @@
 4. Se envía el dato de velocidad con las decodificaciones y se verifica que la paridad es correcta 
 5. Se convierten los datos de binarios en decimal para facilitar la visualización y obtenemos nuevamente el valor 500 
 6. Para calcular el error se utilizará un set point de 520, por lo tanto el calculo sería: 
-                                          Error=500-520 
-                                            Error=-20
+                                          Error=500-520= -20
 7.	El valor calculado se convierte de decimal a binario usando complemento a 2 suponiendo 10 bits, y se obtiene el siguiente valor: 1111101100 
 8.	Para realizar control del valor del error se realiza el siguiente calculo, suponiendo una Kp de 2 
-                                     Control= 1111101100 * 2
-                                          Control=11111011000
+                                     Control= 1111101100 * 2= 11111011000
 9. Finalmente, se crea un mensaje con el sensor de velocidad, error, y valor de control en el formato adecuado para enviar a la unidad de control. 
                                            
