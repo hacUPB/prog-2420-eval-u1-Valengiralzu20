@@ -81,3 +81,6 @@ Error=-15-(-20) = 5
 8. Para realizar control del valor del error se realiza el siguiente calculo, suponiendo una Kp de 2 
 Control= 101*2= 1010
 9.	Finalmente, se crea un mensaje con el sensor de temperatura, error, y valor de control en el formato adecuado para enviar a la unidad de control. 
+
+### Conclusión: 
+La transmisión de datos en formato binario desde sensores de una aeronave hacia su unidad de control es primordial por su eficiencia, precisión y fiabilidad. Al eliminar la necesidad de conversiones, se agiliza el procesamiento de la información y se reduce la latencia. La representación binaria permite una mayor resolución en las mediciones y facilita la implementación de sistemas de detección de errores. Además, la flexibilidad de los protocolos digitales y la posibilidad de aplicar técnicas de cifrado y autenticación hacen que esta forma de transmisión sea altamente segura. En resumen, el uso de datos binarios en la aviónica garantiza un control más preciso y confiable de la aeronave, mejorando la seguridad y eficiencia del vuelo.
