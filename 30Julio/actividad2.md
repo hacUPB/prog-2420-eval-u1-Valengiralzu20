@@ -55,7 +55,7 @@ Error=1000-1500= -500
 Control=11000001100*2 =11000011000
 9. Finalmente, se crea un mensaje con el sensor de altitud, error, y valor de control en el formato adecuado para enviar a la unidad de control. 
 
-### Ejemplo 3: 
+### Aplicación 3: 
 ### Una aeronave se encuentra volando a una temperatura de -15 °C, se requiere saber el proceso de la computadora para interpretar los datos que llegan desde los sensores. 
 
 ### Procedimiento que se debe seguir:
