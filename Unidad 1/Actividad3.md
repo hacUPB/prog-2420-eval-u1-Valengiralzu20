@@ -56,14 +56,14 @@ Sino
 -Tiempo: esta variable se usará para definir el tiempo que ha mantenido cada velocidad  
 -Distancia_total: velocidad * tiempo = distancia_total
 
-3.	#### Entrada de Datos: 
+2.	#### Entrada de Datos: 
 -El usuario debe ingresar velocidad separadas por comas notas separadas por comas
 -Debe ingresar tiempo separado por comas 
 
-2.	#### Proceso: 
+3.	#### Proceso: 
 -Se debe calcular la distancia total, para esto multiplicar la velocidad por el tiempo 
 
-3.	#### Salida: 
+4.	#### Salida: 
 -Imprimir distancia_total y escribir “La distancia total recorrida es de:”
 
 ### Pseudocódigo 
