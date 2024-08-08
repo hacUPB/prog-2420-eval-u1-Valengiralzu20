@@ -5,23 +5,23 @@
 
 ### Análisis del problema: 
 1.	#### Inicialización de variables: 
-Cantidad_notas: esta variable se usa para determinar la cantidad de notas de Ana 
-Calificaciones_Ana: esta variable se usará para definir las notas de Ana 
-Promedio_notas: sumar las variables y dividir por el numero de notas 
-Notamin_aprobacion: se debe determinar cual es la nota mínima para aprobar el curso
+-Cantidad_notas: esta variable se usa para determinar la cantidad de notas de Ana 
+-Calificaciones_Ana: esta variable se usará para definir las notas de Ana 
+-Promedio_notas: sumar las variables y dividir por el numero de notas 
+-Notamin_aprobacion: se debe determinar cual es la nota mínima para aprobar el curso
 
 2.	#### Entrada de Datos: 
-o	El usuario debe ingresar sus notas separada por comas (5.0, 4.5, 3.5, 2.0...)
-o	Decir la cantidad de notas ingresadas cantidad_notas
-o	Decir la notamin_aprobacion 
+-El usuario debe ingresar sus notas separada por comas (5.0, 4.5, 3.5, 2.0...)
+-Decir la cantidad de notas ingresadas cantidad_notas
+-Decir la notamin_aprobacion 
 
 3.	#### Proceso: 
-o	Se debe calcular el promedio, para esto sumar Calificaciones_Ana y luego dividirlas entre Cantidad_notas y se obtiene el promedio_notas  
+-Se debe calcular el promedio, para esto sumar Calificaciones_Ana y luego dividirlas entre Cantidad_notas y se obtiene el promedio_notas  
 
 4.	#### Salida: 
-o	Imprimir el promedio de notas de Ana. 
-o	Poner condicional: Si el promedio es igual o mayor a 3.0 mostrar mensaje de texto que diga “aprobó con un promedio de:”
-o	Si el promedio es <3.0 mostrar mensaje de texto “no aprobó, su promedio es:”
+-Imprimir el promedio de notas de Ana. 
+-Poner condicional: Si el promedio es igual o mayor a 3.0 mostrar mensaje de texto que diga “aprobó con un promedio de:”
+-Si el promedio es <3.0 mostrar mensaje de texto “no aprobó, su promedio es:”
 
 ### Pseudocódigo 
 #### Inicio 
