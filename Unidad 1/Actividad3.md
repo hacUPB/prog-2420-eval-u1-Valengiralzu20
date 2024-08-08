@@ -98,19 +98,19 @@ FIN
 -Fecha_nacimiento: esta variable se usa para determinar fecha de nacimiento de la persona, se debe decir día, mes y año 
 -Fecha_actual: esta variable se usará para determinar la fecha actual, se debe decir día, mes y año 
 
-4. #### Entrada de Datos: 
+2. #### Entrada de Datos: 
 -El usuario debe ingresar su fecha de nacimiento (día, mes, año)
 -Debe ingresar la fecha actual (día, mes, año)
 
-2.	#### Proceso: 
+3.	#### Proceso: 
 -Se debe obtener día_actual, mes_actual, año_actual 
 -Calculo de años: año_actual-año_nacimiento
 -Hacer ajuste de años: si no ha cumplido año_actual-1=ajuste_años
 -Calculo de meses: meses= mes_actual-mes_nacimiento, si mes_actual>mes_nacimiento se debe hacer un ajuste 
 -Calculo de días: diferencia de días, se asume 30 días del mes y se calcula días=30-día_nacimiento
 
-3.	#### Salida: 
+4.	#### Salida: 
 -Imprimir la edad calculada, en años, meses y días “Tienes  ” años , “” meses, “” días. 
 
-4.	#### Verificación cumpleaños 
+5.	#### Verificación cumpleaños 
 -Se verifica si la fecha actual coincide con la fecha de nacimiento, si coinciden, escribir mensaje “Feliz cumpleaños”
