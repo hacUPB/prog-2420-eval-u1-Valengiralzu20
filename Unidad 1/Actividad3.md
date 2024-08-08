@@ -22,7 +22,7 @@ o	Imprimir el promedio de notas de Ana.
 o	Poner condicional: Si el promedio es igual o mayor a 3.0 mostrar mensaje de texto que diga “aprobó con un promedio de:”
 o	Si el promedio es <3.0 mostrar mensaje de texto “no aprobó, su promedio es:”
 
-#### Pseudocódigo 
+### Pseudocódigo 
 #### Inicio 
 Declaración de variables
 Definir Calificaciones_Ana como list
