@@ -43,4 +43,4 @@ Si promedio_notas >= 3.0
       Escribir “aprobó con un promedio de:” 
 Sino 
       Escribir “no aprobó, su promedio es:”
-#### FIN 
+#### Fin
