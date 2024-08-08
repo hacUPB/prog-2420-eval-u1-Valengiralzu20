@@ -13,9 +13,11 @@ Notamin_aprobacion: se debe determinar cual es la nota mínima para aprobar el c
 o	El usuario debe ingresar sus notas separada por comas (5.0, 4.5, 3.5, 2.0...)
 o	Decir la cantidad de notas ingresadas cantidad_notas
 o	Decir la notamin_aprobacion 
-2.	#### Proceso: 
+
+3.	#### Proceso: 
 o	Se debe calcular el promedio, para esto sumar Calificaciones_Ana y luego dividirlas entre Cantidad_notas y se obtiene el promedio_notas  
-3.	#### Salida: 
+
+4.	#### Salida: 
 o	Imprimir el promedio de notas de Ana. 
 o	Poner condicional: Si el promedio es igual o mayor a 3.0 mostrar mensaje de texto que diga “aprobó con un promedio de:”
 o	Si el promedio es <3.0 mostrar mensaje de texto “no aprobó, su promedio es:”
