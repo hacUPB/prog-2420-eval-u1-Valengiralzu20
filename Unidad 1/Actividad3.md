@@ -44,7 +44,7 @@ Si promedio_notas >= 3.0
       Escribir “aprobó con un promedio de:” 
 Sino 
       Escribir “no aprobó, su promedio es:”
-#### Fin
+#### FIN
 
 
 ### Problema 4: Determinar la distancia total recorrida por un vehículo con registros de velocidad y tiempo
@@ -52,19 +52,19 @@ Sino
 
 ### Análisis del problema: 
 1.	#### Inicialización de variables: 
-Velocidad: esta variable se usa para determinar la velocidad a las que ha conducido su vehículo  
-Tiempo: esta variable se usará para definir el tiempo que ha mantenido cada velocidad  
-Distancia_total: velocidad * tiempo = distancia_total
+-Velocidad: esta variable se usa para determinar la velocidad a las que ha conducido su vehículo  
+-Tiempo: esta variable se usará para definir el tiempo que ha mantenido cada velocidad  
+-Distancia_total: velocidad * tiempo = distancia_total
 
 3.	#### Entrada de Datos: 
-a.	El usuario debe ingresar velocidad separadas por comas notas separadas por comas
-b.	Debe ingresar tiempo separado por comas 
+-El usuario debe ingresar velocidad separadas por comas notas separadas por comas
+-Debe ingresar tiempo separado por comas 
 
 2.	#### Proceso: 
-a.	Se debe calcular la distancia total, para esto multiplicar la velocidad por el tiempo 
+-Se debe calcular la distancia total, para esto multiplicar la velocidad por el tiempo 
 
 3.	#### Salida: 
-a.	Imprimir distancia_total y escribir “La distancia total recorrida es de:”
+-Imprimir distancia_total y escribir “La distancia total recorrida es de:”
 
 ### Pseudocódigo 
 
@@ -87,3 +87,5 @@ Distancia_total = distancia_total + distancia_tramo
 
 #### Salida 
 Escribir “la distancia total recorrida es:   distancia_total “metros””
+
+FIN
