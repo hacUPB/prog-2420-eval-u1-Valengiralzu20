@@ -115,7 +115,7 @@ FIN
 5.	#### Verificación cumpleaños 
 -Se verifica si la fecha actual coincide con la fecha de nacimiento, si coinciden, escribir mensaje “Feliz cumpleaños”
 
-#### sPseudocódigo
+#### Pseudocódigo
 Inicio 
 Definir fecha_nacimiento
 Definir fecha_actual
