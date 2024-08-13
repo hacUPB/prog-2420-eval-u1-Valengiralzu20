@@ -114,3 +114,27 @@ FIN
 
 5.	#### Verificación cumpleaños 
 -Se verifica si la fecha actual coincide con la fecha de nacimiento, si coinciden, escribir mensaje “Feliz cumpleaños”
+
+#### Pseudocódigo
+Inicio 
+Definir fecha_nacimiento
+Definir fecha_actual
+
+Ingreso de datos 
+Escribir “ingrese fecha de nacimiento (día, mes, año) separadas por comas”
+Leer fecha de nacimiento
+Escribir “ingrese fecha actual en (día, mes, año), separadas por comas”
+Leer fecha actual
+
+Cálculo de la edad 
+Si fecha_actual <fecha_nacimiento
+     Entonces fecha_actua-fecha_nacimiento=edad
+    Fin si 
+Si fecha_actual > fecha_nacimiento
+     Entonces fecha_actual -1 = edad 
+     Fin si 
+Si mes_actual<mes_nacimiento
+     Entonces mes actual-mes nacimiento= mes edad
+
+Salida 
+Su edad es:   “años, meses, días””
